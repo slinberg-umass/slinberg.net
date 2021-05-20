@@ -1,5 +1,5 @@
 ---
-bio: Programmer. Masters student in the DACSS program at the University of Massachusetts, Amherst.
+bio: Programmer since before you were born. Sysadmin/DBA for a couple decades. Painter in a parallel universe. Now a student again.
 education:
   courses:
   - course: BA in Social Science
