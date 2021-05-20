@@ -1,5 +1,5 @@
 ---
-bio: Programmer. Grad student in the DACSS program at the University of Massachusetts, Amherst.
+bio: Programmer. Masters student in the DACSS program at the University of Massachusetts, Amherst.
 education:
   courses:
   - course: BA in Social Science
@@ -12,9 +12,9 @@ interests:
 - Programming languages
 - The state of the world
 organizations:
-- name: Gandara Mental Health Center
-  url: https://www.gandaracenter.org/
-role: Senior Systems and Analytics Engineer
+- name: University of Massachusetts Amherst
+  url: https://www.umass.edu/
+role: Masters student in [Data Analytics and Computational Social Science](https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program)
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,6 +32,6 @@ superuser: true
 title: Steve Linberg
 ---
 
-Steve Linberg is a graduate student in the MS-DACSS program at the University of Massachusetts, Amherst; anticipated graduation May 2022. He is Senior Systems and Analytics Engineer at the Gandara Mental Health Center.
+I am a Masters student in the [DACSS program](https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program) at the University of Massachusetts, Amherst; anticipated graduation May 2022. The day job is Senior Systems and Analytics Engineer at the [Gandara Mental Health Center](https://gandaracenter.org) in West Springfield, MA.
 
 

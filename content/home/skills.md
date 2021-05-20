@@ -16,18 +16,54 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 50% (watch this space)
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 30% (watch this space)
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 90%
+  icon: database
   icon_pack: fas
-  name: Photography
+  name: SQL
+- description: 90%
+  icon: server
+  icon_pack: fas
+  name: Linux server sysadmin/ops
+- description: 80%
+  icon: php
+  icon_pack: fab
+  name: PHP (don't judge)
+- description: 20%
+  icon: swift
+  icon_pack: fab
+  name: I wish more people used Swift
+- description: 80%
+  icon: code
+  icon_pack: fas
+  name: Lots of languages there aren't icons for
+- description: 80%
+  icon: html5
+  icon_pack: fab
+  name: HTML (since before you were born)
+- description: 90%
+  icon: palette
+  icon_pack: fas
+  name: Classical <a href="https://slinberg.com">drawing and painting</a>
+- description: 80%
+  icon: bread-slice
+  icon_pack: fas
+  name: Bread!
+- description: 40%
+  icon: guitar
+  icon_pack: fas
+  name: Guitar
+- description: 70%
+  icon: motorcycle
+  icon_pack: fas
+  name: Yamaha XSR 700 <3
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
