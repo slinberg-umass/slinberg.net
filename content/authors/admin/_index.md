@@ -12,9 +12,9 @@ interests:
 - Programming languages
 - The state of the world
 organizations:
-- name: University of Massachusetts Amherst
-  url: https://www.umass.edu/
-role: Masters student in [Data Analytics and Computational Social Science](https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program) at [UMass Amherst](https://www.umass.edu)
+- name: ''
+  url: ''
+role: Masters student in [Data Analytics and Computational Social Science](https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program) at the [University of Massachusetts Amherst](https://www.umass.edu)
 social:
 - icon: envelope
   icon_pack: fas
