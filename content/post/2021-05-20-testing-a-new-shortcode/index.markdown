@@ -43,16 +43,16 @@ The embedded code, used above, is:
 {{</* blogdown/youtubestartend IUAHUEy1V0Q 518 539 */>}}
 ```
 
-...and incidentally, the way you present the above code, without having the shortcode actually rendered by Hugo, is explained [in this Infinite Ink post](https://www.ii.com/hugo-tips-fragments/#_11_escaping_hugo_shortcodes). Basically, you put the entire shortcode between `/* C comment delimiters */`:
+...and incidentally, the way you present the above code in Hugo, without having the shortcode actually rendered by Hugo, is explained [in this Infinite Ink post](https://www.ii.com/hugo-tips-fragments/#_11_escaping_hugo_shortcodes). Basically, you put the entire shortcode between `/* C comment delimiters */` like this:
 
 ```r
 {{</*/* blogdown/youtubestartend IUAHUEy1V0Q 518 539 */*/>}}
 ```
 
-...and to render THAT text above, you have to do double delimiters:
+(...and to render THAT text above in Hugo, you have to do double delimiters:
 
 ```r
 {{</*/*/* blogdown/youtubestartend IUAHUEy1V0Q 518 539 */*/*/>}}
 ```
 
-...and so forth.
+...and so forth.)
