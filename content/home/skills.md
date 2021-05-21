@@ -63,7 +63,7 @@ feature:
 - description: 70%
   icon: motorcycle
   icon_pack: fas
-  name: Yamaha XSR 700 <3
+  name: Yamaha XSR 700 ❤️
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
