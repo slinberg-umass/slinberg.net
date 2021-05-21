@@ -35,7 +35,7 @@ The shortcode file `youtubestartend.html` contains:
 </div>
 ```
 
-and is placed in the directory `layouts/shortcodes/blogdown/`.
+and is placed in the directory `layouts/shortcodes/blogdown/`. (**NOTE:** make sure the protocol is either `https` or `http` to match your hosting. If there's a mismatch, it won't work. We're all using https now, right?)
 
 The embedded code, used above, is:
 
