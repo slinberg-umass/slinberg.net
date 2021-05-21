@@ -17,9 +17,9 @@ image:
 projects: []
 ---
 
-Let's see if we can get [this shortcode](https://discourse.gohugo.io/t/howto-youtube-embed-with-custom-start-time/7060/6) working, which will allow us to embed a YouTube video with a start and end time.
+Let's see if we can get [this shortcode](https://discourse.gohugo.io/t/howto-youtube-embed-with-custom-start-time/7060/6) working, which will allow us to embed a YouTube video with a start and end point.
 
-Here is Chris Bail, introducing topic models, dropping some knowledge about setting explicit seeds for reproducible results. I want friends who do topic models.
+Here is Chris Bail, introducing topic models, dropping some knowledge about setting explicit seeds for reproducible results. (I want friends who do topic models.)
 
 {{< blogdown/youtubestartend IUAHUEy1V0Q 518 537 >}}
 
