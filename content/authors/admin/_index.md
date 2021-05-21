@@ -34,4 +34,4 @@ title: Steve Linberg
 
 I am a Masters student in the [DACSS program](https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program) at the University of Massachusetts, Amherst; anticipated graduation May 2022. The day job is Senior Systems and Analytics Engineer at the [Gandara Mental Health Center](https://gandaracenter.org) in West Springfield, MA.
 
-
+This site contains my academic [blog]({{< ref "/post/" >}} "Posts") with ruminations on computational social science, my own learning processes and discoveries, and related technical topics and snippets. The source of this site is on my [Github](https://github.com/slinberg-umass) {{< icon name="github" pack="fab" >}}.
