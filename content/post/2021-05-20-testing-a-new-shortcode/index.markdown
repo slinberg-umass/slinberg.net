@@ -30,7 +30,7 @@ The shortcode file `youtubestartend.html` contains:
 ```html
 <!-- https://discourse.gohugo.io/t/howto-youtube-embed-with-custom-start-time/7060/6 -->
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-    <iframe src="http://www.youtube-nocookie.com/embed/{{ index .Params 0 }}?start={{ index .Params 1 }}&end={{ index .Params 2}}"
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ index .Params 0 }}?start={{ index .Params 1 }}&end={{ index .Params 2}}"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
 </div>
 ```
