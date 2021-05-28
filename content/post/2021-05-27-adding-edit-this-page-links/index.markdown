@@ -3,8 +3,8 @@ title: Adding "Edit this page" links
 author: R package build
 date: '2021-05-27'
 slug: adding-edit-this-page-links
-categories: [hugo, github, wowchemy]
-tags: []
+categories: []
+tags: [hugo, github, wowchemy]
 subtitle: ''
 summary: ''
 authors: []
@@ -50,4 +50,4 @@ It is contained in various inherited templates such as `themes/github.com/wowche
 
 Look at the code to see, among other things, that it can be overridden on a specific page or post by adding `editable: false` to its `yaml` header.
 
-But we're not doing that, so here's the groovy link to the page source (note, you'll need to fork the repo to actually see it, it's more for me than for you):
+But we're not doing that in this case, so falling off the bottom of the content here, we get the groovy link to the page source below (note, you'll need to fork the repo to actually see it, it's more for me than for you):
